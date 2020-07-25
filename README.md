@@ -20,7 +20,7 @@
 ---
 ### TIME FOR STATS :
 ---
-![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=viz06show_icons=true&theme=radical)
+![vivency's github stats](https://github-readme-stats.vercel.app/api?username=viz06show_icons=true&theme=radical)
 
 ---
 ## __THANKYOU__  <img  src="https://visitor-badge.laobi.icu/badge?page_id=viz06.visitor-badge">
