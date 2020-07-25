@@ -1,16 +1,27 @@
-### Hi there 👋
+### _Hi there_ 👋
+## I am __vivency Grover__
+---
+###  :octocat: I’m currently _working_ on :
+#### __java | web develiopment__
+---
+###  :electron: I’m currently _learning_ :
+#### __advance java | angular __
+---
+### 🤔 I’m looking to _develop_ a :
+#### __Portfolio |  Minigames With java__
+---
 
-<!--
-**viz06/viz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### :man_technologist: Contact Me On:
 
-Here are some ideas to get you started:
+[<img src="https://sourcerer.io/icons/logo-sharing.svg" width="100%" alt="Sourcerer"/>](https://sourcerer.io/viz06)|[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100%"/>](https://www.instagram.com//)|[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="100%"/>](https://www.linkedin.com/in//)
+:-----------------:|:--------------------:|:-------------:
+    
+---
+### TIME FOR STATS :
+---
+![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=viz06show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## __THANKYOU__  <img  src="https://visitor-badge.laobi.icu/badge?page_id=viz06.visitor-badge">
+
