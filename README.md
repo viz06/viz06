@@ -2,7 +2,7 @@
 ## I am __vivency Grover__
 ---
 ###  :octocat: I’m currently _working_ on :
-#### __java | web develiopment__
+#### __java | web developer__
 ---
 ###  :electron: I’m currently _learning_ :
 #### __advance java | angular __
